@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/shraddhatrivedi12/ContosoAir%20Exercise%20Project/_apis/build/status/shraddha12.ContosoAir?branchName=master)](https://dev.azure.com/shraddhatrivedi12/ContosoAir%20Exercise%20Project/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
