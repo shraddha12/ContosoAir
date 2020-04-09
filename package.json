@@ -12,6 +12,7 @@
     "all-test:watch": "jest --watch --testRegex=.*\\.i?spec\\.js$"
   },
   "jest": {
+    "verbose": true,
     "testResultsProcessor": "jest-junit-reporter",
     "collectCoverage": true,
     "coverageReporters": [
