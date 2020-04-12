@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite id="0" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\navbar.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\navbar.service.spec.js" hostname="localhost" tests="3" failures="0" time="15.497" timestamp="2020-04-09T16:27:53">
+  <testsuite id="0" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\navbar.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\navbar.service.spec.js" hostname="localhost" tests="3" failures="0" time="19.222" timestamp="2020-04-09T16:39:53">
     <properties>
     </properties>
     <testcase classname="[Unit] That Navbar Service" name="returns always three arrays" time="0">
@@ -12,7 +12,7 @@
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="1" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\flights.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\flights.service.spec.js" hostname="localhost" tests="3" failures="0" time="16.544" timestamp="2020-04-09T16:27:53">
+  <testsuite id="1" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\flights.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\flights.service.spec.js" hostname="localhost" tests="3" failures="0" time="20.121" timestamp="2020-04-09T16:39:53">
     <properties>
     </properties>
     <testcase classname="[Unit] That Flights Service" name="returns empty if no flights in repository" time="0">
@@ -24,7 +24,7 @@
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="2" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\deals.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\deals.service.spec.js" hostname="localhost" tests="2" failures="0" time="0.984" timestamp="2020-04-09T16:28:08">
+  <testsuite id="2" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\deals.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\deals.service.spec.js" hostname="localhost" tests="2" failures="0" time="0.969" timestamp="2020-04-09T16:40:14">
     <properties>
     </properties>
     <testcase classname="[Unit] That Deals Service" name="returns correct destinations" time="0">
@@ -34,7 +34,7 @@
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="3" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\date.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\date.service.spec.js" hostname="localhost" tests="2" failures="0" time="0.64" timestamp="2020-04-09T16:28:09">
+  <testsuite id="3" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\date.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\date.service.spec.js" hostname="localhost" tests="2" failures="0" time="0.735" timestamp="2020-04-09T16:40:15">
     <properties>
     </properties>
     <testcase classname="[Unit] That Date Service" name="returns a valid list of days for set of 8 days" time="0">
@@ -44,7 +44,7 @@
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="4" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\deals.service.ispec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\deals.service.ispec.js" hostname="localhost" tests="4" failures="0" time="0.594" timestamp="2020-04-09T16:28:10">
+  <testsuite id="4" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\deals.service.ispec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\deals.service.ispec.js" hostname="localhost" tests="4" failures="0" time="0.798" timestamp="2020-04-09T16:40:16">
     <properties>
     </properties>
     <testcase classname="[Int] That Deals Service" name="returns always 1 destinations" time="0">
@@ -58,17 +58,15 @@
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="5" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\price.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\price.service.spec.js" hostname="localhost" tests="2" failures="0" time="0.421" timestamp="2020-04-09T16:28:10">
+  <testsuite id="5" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\book.form.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\book.form.service.spec.js" hostname="localhost" tests="1" failures="0" time="0.594" timestamp="2020-04-09T16:40:17">
     <properties>
     </properties>
-    <testcase classname="[Unit] That Price Service" name="returns always higher prices on weekend" time="0">
-    </testcase>
-    <testcase classname="[Unit] That Price Service" name="always return more than base price" time="0">
+    <testcase classname="[Unit] That Book Form Service" name="all required form fields on view exist" time="0">
     </testcase>
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="6" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\airports.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\airports.service.spec.js" hostname="localhost" tests="3" failures="0" time="0.469" timestamp="2020-04-09T16:28:10">
+  <testsuite id="6" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\airports.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\airports.service.spec.js" hostname="localhost" tests="3" failures="0" time="0.546" timestamp="2020-04-09T16:40:18">
     <properties>
     </properties>
     <testcase classname="[Unit] That Airports Service" name="gets all listed airpots" time="0">
@@ -80,15 +78,17 @@
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="7" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\book.form.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\book.form.service.spec.js" hostname="localhost" tests="1" failures="0" time="0.5" timestamp="2020-04-09T16:28:11">
+  <testsuite id="7" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\price.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\price.service.spec.js" hostname="localhost" tests="2" failures="0" time="0.436" timestamp="2020-04-09T16:40:19">
     <properties>
     </properties>
-    <testcase classname="[Unit] That Book Form Service" name="all required form fields on view exist" time="0">
+    <testcase classname="[Unit] That Price Service" name="returns always higher prices on weekend" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Price Service" name="always return more than base price" time="0">
     </testcase>
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="8" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\book.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\book.service.spec.js" hostname="localhost" tests="6" failures="0" time="30.076" timestamp="2020-04-09T16:27:53">
+  <testsuite id="8" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\book.service.spec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\book.service.spec.js" hostname="localhost" tests="6" failures="0" time="39.283" timestamp="2020-04-09T16:39:53">
     <properties>
     </properties>
     <testcase classname="[Unit] That Book Service" name="calls repository on getFlights" time="0">
@@ -106,7 +106,7 @@
     <system-out/>
     <system-err/>
   </testsuite>
-  <testsuite id="9" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\airports.service.ispec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\airports.service.ispec.js" hostname="localhost" tests="14" failures="0" time="12.173" timestamp="2020-04-09T16:28:11">
+  <testsuite id="9" name="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\airports.service.ispec.js" errors="0" package="C:\Users\Pankaj Bajpai\OneDrive\Desktop\ContosoAir\src\services\airports.service.ispec.js" hostname="localhost" tests="14" failures="0" time="18.748" timestamp="2020-04-09T16:40:14">
     <properties>
     </properties>
     <testcase classname="[Int] That Airports Service" name="has that all airports have a city" time="0">
